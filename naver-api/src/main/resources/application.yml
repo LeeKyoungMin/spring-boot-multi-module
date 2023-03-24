@@ -1,0 +1,17 @@
+spring:
+  profiles:
+    include: 
+      - common
+
+kakao:
+  api:
+    url: https://dapi.kakao.com
+    uri: /v2/search/blog
+    key: b60001c0afc22feff8a845138e4feff8
+
+naver:
+  api: 
+    url: https://openapi.naver.com
+    uri: /v1/search/blog.json
+    id: cSynboTRqcuNcu5ZYYCJ
+    key: jEuX9h9TEJ

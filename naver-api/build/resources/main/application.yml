@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    include: 
+      - common
+
+kakao:
+  api:
+    url: https://dapi.kakao.com
+
+naver:
+  api: 
+    url: https://openapi.naver.com/v1/search/blog.json
+    

@@ -1,0 +1,8 @@
+rootProject.name = 'search'
+
+include 'common'
+include 'kakao-api'
+include 'naver-api'
+include 'popular-api'
+include 'blog-api'
+include 'search-api'
